@@ -1,1 +1,1 @@
-Test Compiler written in c++
+Test Compiler written in zig
