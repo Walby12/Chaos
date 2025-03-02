@@ -43,5 +43,5 @@ const Lexer = struct {
 };
 
 pub fn main() void {
-    std.debug.print("Hello {s}", .{"World"});
+    std.debug.print("Hello {s}\n", .{"World"});
 }
